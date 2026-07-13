@@ -229,7 +229,7 @@ env:
 # ============================================
 jobs:
   build:                  # ID do job (único)
-    name: 🔨 Build        # Nome amigável
+    name: Build        # Nome amigável
     runs-on: ubuntu-latest # Sistema operacional
     
     # ========================================
